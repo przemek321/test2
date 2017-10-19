@@ -1,1 +1,12 @@
-w pracy cos sobe pisze w gicie .
+<?php
+
+
+function ccc
+{
+
+
+
+
+
+
+}
